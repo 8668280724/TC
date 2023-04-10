@@ -1,0 +1,89 @@
+                                  Full Stack Developer/Tester
+
+Name: Shubham Venkatesh Sarwade 
+Email:   ssarwade67@gmail.com  
+LinkedIn: https://www.linkedin.com/in/shubham-sarwade-b0402b25a/    
+GitHub: https://github.com/ShubhamSarwade67                                                     
+Mobile: +91 8668280724/9359008015 	 	 	   
+                 
+
+
+SUMMARY  
+Technologically savvy Full stack developer supporting work of databases, servers, system engineering, and clients. Passionate team player and programmer-driven to learn and master new technologies and propose innovative ideas for back-end and front-end applications. Understands website functionality and coding for multiple platforms and meticulously creates fully functional code. 
+ 
+
+Technical Profile
+	SQL
+	HTML 
+	JavaScript 
+	Java
+	CSS 
+	React
+	Angular
+	GitHub
+	Selenium
+	Postman
+	Microsoft Word
+	Microsoft Excel
+	JIRA
+	Microsoft SQL Server
+
+
+Competencies	
+	Web development projects
+	Agile Workflow
+	Software best practices
+	Flexible and Adaptable
+	Teamwork and Collaboration
+	Problem-Solving
+	Self-Motivated
+
+
+
+	
+EDUCATION  
+
+2017 – 2020    Master of Technology: Digital Communication
+                      MBE Society’s College of Engineering Ambajogai.
+                        GPA: 8.05
+2014 – 2017    Bachelor of Engineering: Electronics and Telecommunications
+                      MBE Society’s College of Engineering Ambajogai.
+                        GPA: 7.04
+2011 – 2013    HSC: Science
+                        Mahatma Basweshwar Science College, Latur.
+                        Percentage: 76.5
+2010 – 2011    SSC: Secondary Education
+                      Jankalyan Niwasi Vidyalaya Harangul Bk.
+                        Percentage: 89.45
+
+
+Work Profile  
+
+2023 - 01 – Current   Full Stack Developer Intern
+                           Elliot Systems, Pune
+                           
+	Assisted with creating cross-platform UI web components and building a responsive application using front-end frameworks.
+	Learned new emerging technologies and took initiative to offer technical direction and creative solutions.
+	Used software tools in cooperation with continuous integration and test automation and supported software reuse and refactoring.
+	Cultivated good working relationships with clients, strategic partners, and internal teams and explained technical concepts clearly to internal and external audiences.
+
+
+Languages 
+
+English, Hindi, and Marathi
+
+
+Certifications
+
+2022 – 01    Software Testing
+	Software Testing Training Completed.
+	Good knowledge in test case designing using various test case designing techniques and writing test cases. 
+	Knowledge of designing test cases, and executing test cases. 
+	Knowledge of bug tracking process using bug tracking tool JIRA. 
+	Knowledge of Software Development Lifecycle (SDLC) and STLC.
+	 Knowledge of defect life cycle. 
+	Basic knowledge of API testing. 
+	Basic Knowledge of SQL. 
+	Knowledge of Automation Testing with the help of Selenium Webdriver through core JAVA. 
+	Knowledge of Basic JAVA, and OOPS. 
+	Good communication, and collaboration with proficiency at grasping new technical concepts quickly and utilizing the same in a productive m
